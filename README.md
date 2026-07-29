@@ -1,9 +1,214 @@
-# 💫 About Me:
-Hey there! I'm Gabriel Kelvin, an aspiring AI Developer with a strong foundation in Computer Science. I have a deep passion for Artificial Intelligence, Data Science, and Cloud Technologies.<br><br>🌱 I’m currently working on AI-powered projects like fine-tuning LLMs and implementing RAG pipelines.<br>🔍 Interested in AI, Machine Learning, Natural Language Processing, computer vision, and Data Engineering.<br>💡 Enthusiastic about Cloud Computing (AWS and Azure), Data Science and Data Analytics.<br>🛠️ Recently, I've been diving into AI Agents and exploring their potential to transform various industries.
+<!-- Dynamic GitHub profile README for Gabriel Kelvin -->
 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,50:7B2FF7,100:F107A3&text=Gabriel%20Kelvin&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Building%20Intelligent%20Systems%20That%20Think%2C%20Learn%20%26%20Act&descAlignY=60&descSize=18" alt="Gabriel Kelvin"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<a href="https://github.com/Gabriel-Kelvin">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&repeat=true&width=900&height=70&lines=AI+Developer+%7C+Agentic+Systems+Builder;Turning+LLMs+into+useful+real-world+products;RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision+%E2%80%A2+Cloud;I+do+not+just+use+AI+%E2%80%94+I+engineer+what+it+can+do." alt="Typing animation"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gabriel-Kelvin&label=PROFILE+VIEWS&color=7b2ff7&style=for-the-badge" alt="Profile views"/>
+
+<a href="https://github.com/Gabriel-Kelvin?tab=followers">
+  <img src="https://img.shields.io/github/followers/Gabriel-Kelvin?label=FOLLOWERS&style=for-the-badge&color=00c9ff&labelColor=111827" alt="Followers"/>
+</a>
+
+<a href="https://github.com/Gabriel-Kelvin?tab=repositories">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-f107a3?style=for-the-badge&labelColor=111827" alt="AI Engineering"/>
+</a>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## `> whoami`
+
+```yaml
+name: Gabriel Kelvin
+role: AI Engineer
+mission: Build intelligent systems that create measurable impact
+
+currently_building:
+  - Autonomous AI agents
+  - Retrieval-Augmented Generation pipelines
+  - LLM-powered applications
+  - Computer vision systems
+
+exploring:
+  - Fine-tuning and evaluation
+  - Multi-agent orchestration
+  - Cloud-native AI deployment
+  - Data engineering for production AI
+
+mindset:
+  - Learn deeply
+  - Build relentlessly
+  - Ship responsibly
+```
+
+</td>
+<td width="45%" valign="top">
+
+## 🧠 What drives me
+
+I am fascinated by the point where **AI stops being a demo and starts becoming useful**.
+
+My work revolves around building systems that can understand information, reason over it, automate multi-step workflows, and deliver outcomes people can actually use.
+
+I care about:
+
+- **Intelligence with purpose**
+- **Engineering beyond prototypes**
+- **Ownership from idea to deployment**
+- **Continuous learning through building**
+
+> **My goal is not simply to work with AI. It is to expand what teams can accomplish with it.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ My AI Engineering Universe
+
+### Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and ML"/>
+</p>
+
+### Backend, Data & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,sqlite&theme=dark" alt="Backend and databases"/>
+</p>
+
+### Cloud, DevOps & Product Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,firebase,postman&theme=dark" alt="Cloud and DevOps"/>
+</p>
+
+### Languages & Interfaces
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Web technologies"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-7B2FF7?style=for-the-badge&logo=googlegemini&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-F107A3?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Live Developer Telemetry
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Kelvin&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=9D4EDD&icon_color=00C9FF&text_color=C9D1D9" alt="GitHub statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Gabriel-Kelvin&hide_border=true&theme=tokyonight&background=0D1117&ring=9D4EDD&fire=F107A3&currStreakLabel=00C9FF" alt="Contribution streak"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Kelvin&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top languages"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabriel-Kelvin&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievement Matrix
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Gabriel-Kelvin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Pulse
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Kelvin&bg_color=0D1117&color=C9D1D9&line=9D4EDD&point=00C9FF&area=true&hide_border=true&custom_title=Gabriel%20Kelvin's%20Contribution%20Graph" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## 🚀 What I bring to a team
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<h3>🤖</h3>
+<b>AI Systems</b><br/>
+<sub>From model capability to useful workflows</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>🧩</h3>
+<b>Problem Decomposition</b><br/>
+<sub>Turning ambiguity into executable steps</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>☁️</h3>
+<b>Cloud Thinking</b><br/>
+<sub>Designing beyond the local prototype</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>📈</h3>
+<b>Business Impact</b><br/>
+<sub>Connecting technology to measurable value</sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💬 The principle behind my work
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
+
+### Let us build something intelligent — and make it matter.
+
+<a href="mailto:gabrielkelvin184@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gabriel Kelvin"/>
+</a>
+
+<a href="https://github.com/Gabriel-Kelvin">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gabriel Kelvin on GitHub"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F107A3,50:7B2FF7,100:00C9FF" alt="Footer"/>
+
+</div>
